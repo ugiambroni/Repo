@@ -4,7 +4,7 @@ body {
     font-family: sans-serif; 
     text-align: center;}
 
-
+header {margin-top: 20px; padding: 10px;}
 nav {
     background-color: rgba(238, 237, 237, 0.555);}
 
@@ -31,4 +31,4 @@ footer {
     background-color: black;
     padding: 5px; 
     font-size: 12px;
-    margin: 10px;}
+    margin: 20px;}
